@@ -1,0 +1,142 @@
+[
+    {
+        "id": "1",
+        "title": "Basílica Santuário de Nossa Senhora de Nazaré",
+        "description": "Lugar paradisíaco para relaxar.",
+        "imageText": "A Basílica de Nazaré é o coração da fé do paraense. É lá que começa e termina o Círio, tudo com muito respeito e emoção. Quem vem aqui sente a força da fé na hora. Além disso, tem a lenda da cobra gigante que vive embaixo da igreja e causou um tremor em Belém."
+    },
+    {
+        "id": "2",
+        "title": "Igreja da Sé",
+        "description": "Trilhas e aventuras no frio.",
+        "imageText": "A Igreja da Sé é cheia de história. Fica na Cidade Velha e tem uma vista linda pro rio. É lá que a imagem peregrina de Nossa Senhora chega no fim da trasladação, e o povo todo se emociona com esse momento sagrado do Círio."
+    },
+    {
+        "id": "3",
+        "title": "Tacacá do Renato",
+        "description": "Cultura e arquitetura colonial.",
+        "imageText": "Esse é o verdadeiro sabor do Pará. O tacacá do Renato é tradição na rua, com jambu que treme a boca e tucupi amarelinho do bom. Quem é de Belém conhece e respeita!"
+    },
+    {
+
+
+        "id": "4",
+        "title": "Curuzu - Sede do Paysandu",
+        "description": "Paixão e tradição bicolor.",
+        "imageText": "A Curuzu é a casa do Papão da Amazônia! Aqui o bicolor entra em campo com a força da torcida apaixonada. Dia de jogo é aquela festa: bandeira, batuque e muito grito de guerra. Quem é Paysandu sabe... aqui é raiz!"
+    },
+    {
+        "id": "5",
+        "title": "Estádio Mangueirão",
+        "description": "O palco do futebol paraense.",
+        "imageText": "O Mangueirão é emoção pura! Dia de clássico aqui é de arrepiar. Bicolor e Remista fazem a cidade parar. E não é só futebol não, o Mangueirão também recebe shows e eventos gigantes."
+    },
+    {
+        "id": "6",
+        "title": "Baenão - Sede do Remo",
+        "description": "Onde bate forte o coração azulino.",
+        "imageText": "O Baenão é a casa do Leão Azul. Aqui quem manda é a torcida azulina, vibrando, cantando e apoiando o Clube do Remo. É tradição, é história e é resistência!"
+    },
+    {
+        "id": "7",
+        "title": "Mangal das Garças",
+        "description": "Um pedaço da Amazônia no meio da cidade.",
+        "imageText": "Aqui você respira a natureza! Tem borboletário, mirante pra ver a cidade inteira e várias aves soltas. Lugar perfeito pra quem quer paz e contato com a Amazônia."
+    },
+    {
+        "id": "8",
+        "title": "Ver-o-Peso",
+        "description": "O coração de Belém.",
+        "imageText": "O Ver-o-Peso é aquele caos organizado que só a gente entende. Tem cheiro de peixe, de ervas, de tacacá, de açaí... É onde o paraense compra de tudo, de peixe fresco a simpatia pra espantar olho gordo."
+    },
+    {
+        "id": "9",
+        "title": "Estação das Docas",
+        "description": "Pôr do sol mais bonito da cidade.",
+        "imageText": "Quer ver o pôr do sol tomando um chope artesanal e comendo camarão empanado? Aqui é o lugar! Mistura de cultura, gastronomia e aquele ventinho do rio pra completar."
+    },
+    {
+        "id": "10",
+        "title": "Forte do Presépio",
+        "description": "O marco inicial de Belém.",
+        "imageText": "Aqui começou tudo! O Forte do Presépio guarda as origens da cidade. Do alto dá pra ver o encontro do rio com a cidade antiga. História pura."
+    },
+    {
+        "id": "11",
+        "title": "Museu Emílio Goeldi",
+        "description": "Amazônia viva no meio da cidade.",
+        "imageText": "Aqui tem bicho, tem árvore centenária e tem cultura. O Museu Goeldi é onde a gente aprende sobre a nossa Amazônia e ainda vê os bichos de perto."
+    },
+    {
+        "id": "12",
+        "title": "Bosque Rodrigues Alves",
+        "description": "A floresta encantada de Belém.",
+        "imageText": "Um pedaço da Amazônia no meio da cidade. Tem trilha, tem igarapé e tem aquele cheirinho de mato que a gente ama. Perfeito pra passear com a família."
+    },
+    {
+        "id": "13",
+        "title": "Praça Batista Campos",
+        "description": "O quintal da cidade.",
+        "imageText": "Aqui o povo vem caminhar, conversar e tomar sorvete. É sombra, é descanso, é encontro. Pra quem é de Belém, a Batista é quase extensão de casa."
+    },
+    {
+        "id": "14",
+        "title": "Praça da República",
+        "description": "Cultura e história.",
+        "imageText": "Domingo é dia de feira na Praça da República. Tem artesanato, música, comida e aquele papo bom com quem entende de cultura paraense."
+    },
+    {
+        "id": "15",
+        "title": "Ilha do Combu",
+        "description": "Natureza e chocolate artesanal.",
+        "imageText": "Só atravessar de barco e você chega nesse paraíso. Aqui tem trilha, restaurante no meio do mato e o famoso chocolate feito na ilha. Tudo fresquinho e com aquele jeitinho amazônico."
+    },
+    {
+        "id": "16",
+        "title": "Mercado de São Brás",
+        "description": "Sabores e história.",
+        "imageText": "O Mercado de São Brás é onde a gente encontra de tudo: frutas, comidas, peças antigas e aquele papo bom com os feirantes."
+    },
+    {
+        "id": "17",
+        "title": "Teatro da Paz",
+        "description": "O glamour da Amazônia.",
+        "imageText": "Imponente, lindo e cheio de história. O Teatro da Paz é orgulho de Belém, palco dos maiores espetáculos da nossa terra."
+    },
+    {
+        "id": "18",
+        "title": "Museu da Cidade de Belém",
+        "description": "Onde a história vive.",
+        "imageText": "Fica no Palácio Antônio Lemos. Aqui a gente entende como Belém cresceu, mudou e continua sendo essa cidade cheia de vida e cultura."
+    },
+    {
+        "id": "19",
+        "title": "Centro Cultural Solar da Beira",
+        "description": "Arte à beira do rio.",
+        "imageText": "Anexo ao Ver-o-Peso, o Solar da Beira é aquele lugar onde arte, música e gastronomia se encontram. Tudo com vista pro rio."
+    },
+    {
+        "id": "20",
+        "title": "Casa das Onze Janelas",
+        "description": "Arte contemporânea na cidade antiga.",
+        "imageText": "Antiga residência militar, hoje virou galeria de arte moderna. E ainda tem aquele café com vista pro rio que é de outro mundo."
+    },
+    {
+        "id": "21",
+        "title": "Porto Futuro",
+        "description": "Lazer pra toda a família.",
+        "imageText": "Tem brinquedo pras crianças, pista de caminhada e aquele espaço pra quem quer relaxar. Perfeito pra passar o domingo."
+    },
+    {
+        "id": "22",
+        "title": "Igreja de Santo Alexandre",
+        "description": "Barroco amazônico.",
+        "imageText": "Uma das igrejas mais lindas da cidade. Por dentro e por fora, é arte pura! Fica ali na Cidade Velha, pertinho do Forte."
+    },
+    {
+        "id": "23",
+        "title": "Praça Dom Pedro II",
+        "description": "A mais antiga da cidade.",
+        "imageText": "Cercada por prédios históricos, como o Palácio do Governo e o Forte do Presépio. Aqui é onde tudo começou. Tem história em cada pedra."
+    }
+]
